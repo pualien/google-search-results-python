@@ -1,5 +1,5 @@
-from serpapi.serp_api_client import *
-from serpapi.serp_api_client_exception import SerpApiClientException
+from serpapi_async.serp_api_client import *
+from serpapi_async.serp_api_client_exception import SerpApiClientException
 
 class YahooSearch(SerpApiClient):
     """YahooSearch enables to search yahoo and parse the result.

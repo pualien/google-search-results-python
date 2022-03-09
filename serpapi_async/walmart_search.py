@@ -1,6 +1,6 @@
-from serpapi.serp_api_client import *
-from serpapi.serp_api_client_exception import SerpApiClientException
-from serpapi.constant import *
+from serpapi_async.serp_api_client import *
+from serpapi_async.serp_api_client_exception import SerpApiClientException
+from serpapi_async.constant import *
 
 class WalmartSearch(SerpApiClient):
     """WalmartSearch enables to search google scholar and parse the result.

@@ -1,5 +1,5 @@
-from serpapi.serp_api_client import *
-from serpapi.serp_api_client_exception import SerpApiClientException
+from serpapi_async.serp_api_client import *
+from serpapi_async.serp_api_client_exception import SerpApiClientException
 
 class EbaySearch(SerpApiClient):
     """EbaySearch enables to search ebay and parse the result.

@@ -1,4 +1,4 @@
-from serpapi.serp_api_client_aiohttp import *
+from serpapi_async.serp_api_client_aiohttp import *
 
 
 class GoogleSearchAIOHTTP(SerpApiClientAIOHTTP):

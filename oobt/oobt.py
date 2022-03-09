@@ -1,6 +1,6 @@
 import sys
 import os
-from serpapi import GoogleSearch
+from serpapi_async import GoogleSearch
 
 # Run Out Of Box testing
 #  Load package

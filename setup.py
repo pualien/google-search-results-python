@@ -50,7 +50,7 @@ def get_requirements(*requirements_file):
     return dependencies
 
 setup(name='google_search_results_async',
-      version='2.4.1b1',
+      version='2.4.2',
       description='Scrape and search localized results from Google, Bing, Baidu, Yahoo, Yandex, Ebay, Homedepot, youtube at scale using SerpApi.com',
       url='https://github.com/serpapi/google-search-results-python',
       author='Matteo Senardi',

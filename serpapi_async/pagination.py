@@ -1,4 +1,4 @@
-from serpapi.serp_api_client_exception import SerpApiClientException
+from serpapi_async.serp_api_client_exception import SerpApiClientException
 
 DEFAULT_START = 0 
 DEFAULT_END = 1000000000
