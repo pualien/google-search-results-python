@@ -1,7 +1,7 @@
-from serpapi.serp_api_client import *
+from serpapi.serp_api_client_aiohttp import *
 
 
-class GoogleSearchAIOHTTP(SerpApiClient):
+class GoogleSearchAIOHTTP(SerpApiClientAIOHTTP):
     """GoogleSearch enables to search google and parse the result.
     ```python
     from serpapi import GoogleSearch
