@@ -14,3 +14,4 @@ google_search_results.egg-info/PKG-INFO
 google_search_results.egg-info/SOURCES.txt
 
 .env
+.venv/
